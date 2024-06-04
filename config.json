@@ -152,5 +152,8 @@
             "enabled": true
         }
     },
-    "hermesEnabled": false
+    "hermesEnabled": false,
+    "appVersion": "1.0.909",
+    "buildNumber": 909,
+    "runtimeUrl": "https://Roadside-Dev.cfapps.us10.hana.ondemand.com"
 }
