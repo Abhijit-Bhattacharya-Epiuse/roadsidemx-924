@@ -22,11 +22,11 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.914</string>
+    <string>1.0.916</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>914</string>
+    <string>916</string>
     <key>CodePushKey</key>
     <string/>
     <key>GoogleMapsApiKey</key>
