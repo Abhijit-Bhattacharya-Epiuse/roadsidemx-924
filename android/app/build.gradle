@@ -59,12 +59,12 @@ android {
     }
     namespace "com.mendix.nativetemplate"
     defaultConfig {
-        applicationId "com.roadside.mobile"
+        applicationId "com.roadsidestg.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
-        versionCode 933
-        versionName "1.0.933"
+        versionCode 935
+        versionName "1.0.935"
         testBuildType System.getProperty("testBuildType", "debug")
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resValue "string", "CODE_PUSH_APK_BUILD_TIME", String.format("\"%d\"", System.currentTimeMillis())
